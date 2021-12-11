@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.37122969837587005" />
+        <entry key="app/src/main/res/layout/activity_select_currency.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout/activity_stored_exchanges.xml" value="0.40717948717948715" />
+        <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout/history_item.xml" value="0.41354166666666664" />
+        <entry key="app/src/main/res/layout/list_of_currency.xml" value="0.39751185517397725" />
+        <entry key="app/src/main/res/layout/row_of_currency.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/menu/base_currency_menu.xml" value="0.402874741162695" />
+        <entry key="app/src/main/res/menu/currency_menu.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/menu/history_menu.xml" value="0.23697916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
